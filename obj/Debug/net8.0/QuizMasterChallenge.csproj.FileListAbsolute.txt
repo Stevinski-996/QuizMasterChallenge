@@ -1,0 +1,14 @@
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/obj/Debug/net8.0/QuizMasterChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/obj/Debug/net8.0/QuizMasterChallenge.AssemblyInfoInputs.cache
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/obj/Debug/net8.0/QuizMasterChallenge.AssemblyInfo.cs
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/obj/Debug/net8.0/QuizMasterChallenge.csproj.CoreCompileInputs.cache
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/bin/Debug/net8.0/QuizMasterChallenge
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/bin/Debug/net8.0/QuizMasterChallenge.deps.json
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/bin/Debug/net8.0/QuizMasterChallenge.runtimeconfig.json
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/bin/Debug/net8.0/QuizMasterChallenge.dll
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/bin/Debug/net8.0/QuizMasterChallenge.pdb
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/obj/Debug/net8.0/QuizMasterChallenge.dll
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/obj/Debug/net8.0/refint/QuizMasterChallenge.dll
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/obj/Debug/net8.0/QuizMasterChallenge.pdb
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/obj/Debug/net8.0/QuizMasterChallenge.genruntimeconfig.cache
+/Users/aaa/Desktop/QuizMaster-Challenge/QuizMasterChallenge/obj/Debug/net8.0/ref/QuizMasterChallenge.dll
